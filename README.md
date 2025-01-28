@@ -1,25 +1,21 @@
-# 🚀 Nativ3Labs 
+# Nativ3Kit
 
-**Building the Future of Web3 Interfaces**  
-We're a collective of developers, designers, and blockchain enthusiasts crafting tools that empower the next generation of decentralized applications.
+✨ **The Native Web3 UI Toolkit** ✨  
 
-## 🛠️ Our Projects
+Nativ3Kit is a **multi-chain UI library** designed for building beautiful, responsive, and chain-agnostic decentralized applications. With native support for Arbitrum, Solana, NEAR, and more, it provides everything you need to create seamless Web3 experiences.
 
-### [Nativ3Kit](https://github.com/Nativ3Labs/nativ3kit)  
-A **multi-chain Web3 UI library** with native blockchain components integration, web3 aesthetics, and seamless cross-chain experiences and pixel perfect ui.
+## 🎨 Features
 
-## 🌟 Why Nativ3Labs?
+- **Neon Design System**: Glowing, futuristic aesthetics.  
+- **Arbitrum-First**: Built-in Arbitrum integration and contribution system.  
+- **Cross-Chain**: EVM, Solana, and NEAR support out of the box.  
+- **Framework-Agnostic**: Works with React, Vue, and Angular.  
 
-- **Modular Design**: Build once, deploy everywhere.  
-- **Chain-Agnostic**: From Arbitrum to Solana, we've got you covered.  
-- **Developer-First**: Clean APIs, comprehensive docs, and TypeScript support.  
-- **Community-Driven**: Open-source, transparent, and contributor-friendly.
+## 🚀 Quick Start
 
-## 🛡️ Our Values
-
-- **Innovation**: Pushing the boundaries of Web3 UX.  
-- **Security**: Audited code and battle-tested components.  
-- **Sustainability**: Contributing to the Arbitrum ecosystem with every install.
+```bash
+npm install @nativ3kit/react
+```
 
 ## 🤝 Get Involved
 
