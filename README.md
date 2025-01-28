@@ -6,7 +6,7 @@ We're a collective of developers, designers, and blockchain enthusiasts crafting
 ## 🛠️ Our Projects
 
 ### [Nativ3Kit](https://github.com/Nativ3Labs/nativ3kit)  
-A **multi-chain Web3 UI library** with native Arbitrum integration, neon aesthetics, and seamless cross-chain experiences.
+A **multi-chain Web3 UI library** with native blockchain components integration, web3 aesthetics, and seamless cross-chain experiences and pixel perfect ui.
 
 ## 🌟 Why Nativ3Labs?
 
