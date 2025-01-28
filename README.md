@@ -1,4 +1,4 @@
-# 🚀 Nativ3Labs 🌌
+# 🚀 Nativ3Labs 
 
 **Building the Future of Web3 Interfaces**  
 We're a collective of developers, designers, and blockchain enthusiasts crafting tools that empower the next generation of decentralized applications.
